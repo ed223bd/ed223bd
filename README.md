@@ -19,13 +19,18 @@ Here are some ideas to get you started:
 
 ## Contact
 Email: 
+
 LinkedIn:
 
 
 ### Currently working on...
+<img src="{https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9}" />
+
 ![Grafana]{(https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)}
 
+
 ![Python]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+
 
 ![Angular]({https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white})
 
