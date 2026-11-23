@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello! 👋
 
-
+Currently studing my third year of Web Development at Linnaeus University. 
 
 <!--
 **ed223bd/ed223bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Contact
-Email: 
-
-LinkedIn:
-
 
 ### Currently working on...
 
@@ -85,5 +79,3 @@ LinkedIn:
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![]({})
 ![]({})
-
-## Featured projects
